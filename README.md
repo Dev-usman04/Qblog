@@ -1,0 +1,2 @@
+QBLOG
+qBlog is a modern web application for browsing, reading, and discovering trending blogs and books. Built with React and TailwindCSS, it features a dynamic homepage, categorized blog and book listings, and detailed article pages. Users can explore the latest news, bestsellers, and trending topics, with smoot navigation and responsive design for all devices. The project leverages modular components and state management for a seamless user experience.
