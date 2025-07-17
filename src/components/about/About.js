@@ -15,7 +15,7 @@ const About = () => {
       >
         <span className="font-bold font-serif text-3xl md:text-3xl">Q.</span>
         <span className="font-bold text-3xl font-whisper italic">Blog </span>
-        This is a sample text for my application, designed to demonstrate functionality. With careful attention to detail, the system efficiently processes data, ensuring seamless performance and user satisfaction. Developers can customize features, integrate new tools, and enhance the interface. The platform supports dynamic content, enabling users to create, manage, and analyze information effortlessly, while maintaining flexibility and scalability for future updates.
+        This is a sample text for my application, designed to demonstrate functionality. With careful attention to detail, the system efficiently processes data, ensuring seamless performance and user satisfaction. Developers can customize features, integrate new tools, and enhance the interface. The platform supports dynamic content, enabling users to create, manage, and analyze information effortlessly, while maintaining flexibility and scalability for future updates. Stay jiggy and stay blessed.
       </p>
       <main class="mt-12 lg:mt-24 lg:px-8 px-3">
         <section

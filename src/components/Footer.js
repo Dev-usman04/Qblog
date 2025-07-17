@@ -163,7 +163,7 @@ const Footer = () => {
         </Link>
 
         <p className="font-roboto text-gray-800 text-sm md:text-md">
-          &copy;2025 Q.Studio By DevDre. All Rights Reserved
+          &copy;2025 Q.Studio. Developed by DevDre. With courtesy of DLT_Africa. All rights reserved.
         </p>
       </section>
     </footer>
